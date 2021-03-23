@@ -18,3 +18,5 @@ let
 in
     Custom1
 ```
+
+To add more queries to the PQF.pq file separate each query with 3 forward slashes '///' followed by the name of the query. Then paste the code of your query below that line.
